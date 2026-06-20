@@ -1,4 +1,5 @@
-# 🧠 Sentify AI v2 : https://sentify-ai-analytics.streamlit.app/
+# 🧠 Sentify AI v2
+> https://sentify-ai-analytics.streamlit.app/
 
 > Transform raw customer feedback into structured strategic intelligence using Google Gemini AI.
 
